@@ -1,0 +1,70 @@
+*{
+
+    box-sizing: border-box;
+    margin: 0px;
+    font-size: 25px;
+}
+/*task-1*/
+/*.container>.box>p
+.container .box>p
+.container>.box p*/
+.container>.box>p{
+    padding: 20px;
+    color: aqua;
+    
+}
+/*task-2*/
+/*.section>.content p
+.section .content>p
+.section .content p
+.section>.content>p*/
+.section>.content p{
+    color: bisque;
+    margin: 15px;
+}
+/*task-3*/
+/*.card-header+card-body>p
+.card-hearder+card-body p
+*/
+.card-header+.card-body>p{
+    border: 2px solid red;
+}
+/*task-4*/
+/*.navbar ul li 
+.navbar>ul>li
+.navbar>ul li
+.navbar ul>li*/
+.navbar>ul li{
+    background-color: lightblue;
+    margin: 10px;
+}
+/*task-5*/
+/*.header h1*/
+.header>h1{
+margin-top: 20px;
+color: yellow;
+}
+/*task-6*/
+/*.footer span*/
+.footer>span{
+    padding: 10px;
+    color: green;
+}
+/*task-7*/
+/* .maincontent .content p
+.main-content>.content>p
+.main-content>.content p*/
+.main-content>.content p{
+    border: 1px solid black;
+}
+.nav ul li+li{
+    margin: 10px;
+    margin-right: 15px;
+    background-color: aliceblue;
+}
+.gallery>.photo{
+    background-color: lightgrey;
+}
+.container>.footer span{
+    border-radius: 5px;
+}
